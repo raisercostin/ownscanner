@@ -4,6 +4,8 @@
 
 OwnScanner is a small Windows batch scanner for invoices, receipts, and other paper. It captures both sides as lossless PNG files and leaves rotation, cleanup, classification, and OCR for later, so the originals stay as close to the scanner output as possible.
 
+![OwnScanner showing a scanned map with the sheet list, zoom controls, and live log](docs/ownscanner.png)
+
 > **Status: early release.** OwnScanner has been tested with a Canon imageFORMULA DR-M260 on Windows 10 x64. Other TWAIN scanners should be detected, but have not been tested yet. See [Known limitations](#known-limitations) before scanning irreplaceable documents.
 
 ## Features
