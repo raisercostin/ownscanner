@@ -1,0 +1,14 @@
+/target/
+*.exe
+*.pdb
+
+# Real scans and private images
+/here/
+/screenshots/
+/docs/screenshot.png
+
+# Local configuration and working notes with personal details
+/.ownscanner.toml
+/REQUIREMENTS.md
+/.act/
+/.act-before-import-migrated-tobe-deleted/
